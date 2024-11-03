@@ -1,6 +1,6 @@
 **Fine-Tuning LLAMA3**
 
-This project demonstrates fine-tuning the LLAMA3 language model on Google Colab, focusing on NLP tasks using the mental_health_counseling_conversations dataset.
+This project demonstrates fine-tuning the LLAMA3 language model on Google Colab, focusing on NLP tasks using the mental_health_counseling_conversations dataset( https://huggingface.co/datasets/Amod/mental_health_counseling_conversations?row=3 ).
 
 - **Environment Setup**: Configured Colab with Python libraries (e.g., PyTorch, Hugging Face Transformers).
 - **Model & Dataset**: Downloaded LLAMA3, preprocessed the mental health counseling dataset, and adapted it for fine-tuning.
